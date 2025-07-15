@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex</title>
+
+    <style>
+        .container{
+            height: 300px;
+            border: 1px solid tan;
+            display: flex;
+            /* justify-content: space-around;
+            align-items: center; 
+            flex-direction: row-reverse;*/
+            flex-wrap: wrap;
+
+
+        }
+
+        .box{
+            border: 1px solid greenyellow;
+            height: 50px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Flex Layout</h1>
+    <div class="container">
+    <div class="box">box-1</div>   <!--shortcut .box{box-$}*3 dile 3 ta box create hobe -->
+    <div class="box">box-2</div>
+    <div class="box">box-3</div>
+    <div class="box">box-4</div>
+    <div class="box">box-5</div>
+    <div class="box">box-6</div>
+    <div class="box">box-7</div>
+    <div class="box">box-8</div>
+    <div class="box">box-9</div>
+    </div>
+    
+</body>
+</html>
