@@ -1,4 +1,4 @@
-let numbers = [5,9,7,1,3,4,6]
+let numbers = [5,9,7,1,3,4,6,11]
 let reversed =[]
 // for (let i = 0; i<numbers.length;i++){
 //     console.log(numbers[i]);
@@ -22,4 +22,5 @@ let reversed =[]
 
 let numReverse= numbers.reverse();
 console.log(numReverse);
+
 
