@@ -20,7 +20,21 @@ let reversed =[]
 // console.log(reversed)
 
 
-let numReverse= numbers.reverse();
-console.log(numReverse);
+// let numReverse= numbers.reverse();
+// console.log(numReverse);
 
 
+
+numbers=[2,9,3,8,6,7,5,4];
+// for(i=numbers.length-1; i>=0; i--){
+//     reversed.push(numbers[i])
+
+// }
+//     console.log(reversed);
+
+for(i=0; i<numbers.length;i++){
+    reversed.unshift(numbers[i])
+}
+
+
+console.log(reversed);
