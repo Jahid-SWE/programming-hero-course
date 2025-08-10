@@ -1,2 +1,9 @@
-  [97,19,82,76,38],
-    [28,64,76,17,91]
+let productsCodes= [
+//     [1, 2],
+//     [3, 4],
+//     [5, 6]
+// ]
+// productsCodes[1][0]=99;
+// for(let productCode of productsCodes){
+//     console.log(productCode)
+// }
