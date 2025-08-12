@@ -1,0 +1,1 @@
+console.log('The even Numbers sum : ', numb.sum)
