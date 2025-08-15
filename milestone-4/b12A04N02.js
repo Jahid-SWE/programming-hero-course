@@ -8,4 +8,4 @@ function  onlyCharacter( str ) {
     character=joinstr.toUpperCase()
     return character;
 }
-console.log(onlyCharacter(' I lova my mother '));
+console.log(onlyCharacter(true));

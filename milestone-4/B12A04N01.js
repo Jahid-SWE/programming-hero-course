@@ -8,5 +8,5 @@ function totalFine( fare ) {
     return fine;
 
 }
-const far = totalFine("Gorib tai ticket katinai");
-console.log(far);
+
+console.log(totalFine("Gorib tai ticket katinai"));
