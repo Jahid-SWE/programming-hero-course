@@ -1,7 +1,7 @@
-const numbers =[4,6,7,2,1,34,8]
-const double =[]
-for (const number of numbers){
-    result=number *2
-    double. push(result)
-}
-console.log(double);
+const  number=[5,3,2,30,60,]
+// number.forEach(x=>console.log(x))
+
+number.forEach(x=>{
+   const result = x*x;
+    console.log(result)
+})
