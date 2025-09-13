@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+td,th{
+     border: 2px solid rgb(34, 28, 28);
+     padding: 20px 30px;
+}
+.ttable{
+    margin-top: 30px;
+}

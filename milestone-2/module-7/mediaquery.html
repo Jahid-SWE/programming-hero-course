@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Query</title>
+    <style>
+        .container{
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            
+        }
+        .food{
+            border: 1px solid green;
+            padding: 10px;
+            border-radius: 10px;
+
+        }
+        .food img{
+            width: 100%;
+        }
+
+        /* small devise*/
+        @media screen and (max-width:576px) {
+            .container{
+                grid-template-columns: repeat(1,1fr);
+                
+            }
+            .food{
+                background-color: springgreen;
+            }
+        }
+        @media screen and (min-width:576px) and (max-width:992px) {
+            .container{
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .food{
+                background-color: mediumorchid;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <main>
+        <section>
+            <div class="container">
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 1</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 2</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 3</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 4</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 5</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 6</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 7</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 8</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 9</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 10</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Foode Item 11</h1>
+                    <p>price $120</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui velit quasi nihil doloribus aperiam, dolorem pariatur consequuntur eum beatae vitae?
+                    </p>
+                    <button>Buy Now</button>
+                </div>
+               
+            </div>
+        </section>
+    </main>
+</body>
+</html>

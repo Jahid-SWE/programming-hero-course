@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar</title>
+    <style>
+/* Start media query for small and medium and large devise*/
+    .container{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px 20px;
+    }
+    .food{
+        background-color: rgb(55, 173, 241);
+        border: 1px solid #0f0f0f;
+        border-radius: 10px;
+        padding: 20px;
+    }
+    .food img{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    @media screen and (max-width:576px) {
+        .container{
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            
+        }
+        
+    }
+    @media screen and (min-width:576px) and (max-width:992px) {
+        .container{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+        .food{
+            border-radius: 10px;
+            text-align: center;
+        }
+       
+        
+    }
+/* end media query for small and medium and large devise*/
+
+
+
+/* <!-- start calender  section-->*/
+      
+   /*   .calender-container{
+            width: 100%;
+            height: 800p;
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            row-gap: 10px;
+            column-gap: 20px;
+            border: 1px solid red;
+
+        }
+        .calender{
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            row-gap: 10px;
+            column-gap: 20px;
+            border: 1px solid red;
+        }
+        .date{
+            background-color: darkcyan;
+            font-size: 2em;
+            border-radius: 10px;
+            display: grid;
+            justify-content: center;
+        }
+
+
+*/
+
+/* <!-- end calendar  section-->*/
+
+/* <!-- start media query  section-->*/
+      /*
+      
+       .container{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+       }
+       .food{
+        padding: 10px;
+        border: 1px solid salmon;
+        border-radius: 10px;
+       }
+       .food img{
+        width: 100%;
+        border-radius: 10px;
+       }
+       @media screen and (max-width:576px) {
+        .container{
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+    
+        }
+        .food{
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px dotted green;
+            text-align: center;
+        }
+       }
+      */
+/* <!-- end media query  section-->*/
+    </style>
+</head>
+<body>
+    <main>
+
+<!-- .container>.food*12>img[src="food.webp"]+h1{Food Item -$}+p{Price \$$00}+p>lorem20 -->
+<!-- Start media query for small and medium and large devise -->
+
+  <section>
+      <h1>Your choice food</h1>
+      <div class="container">
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -1</h1>
+            <p>price : $100</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus eaque nam quod. Eligendi minima ratione rem assumenda nam corporis numquam!</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -2</h1>
+            <p>price : $200</p>
+            <p>Maxime hic fugiat est, adipisci assumenda earum, quasi porro deleniti aliquid sint cupiditate facere quisquam veritatis! Aperiam quam ducimus nemo.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -3</h1>
+            <p>price : $300</p>
+            <p>At accusantium asperiores odio consequatur quos totam consequuntur dolorem fuga possimus iure. Rem cupiditate velit ipsum mollitia explicabo, dolorum culpa?</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -4</h1>
+            <p>price : $400</p>
+            <p>Doloribus error consequuntur laudantium delectus, placeat cupiditate dicta laborum esse sit sed inventore debitis omnis impedit minus quaerat suscipit officiis?</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -5</h1>
+            <p>price : $500</p>
+            <p>Eligendi iure quisquam hic doloribus minima soluta, eos facere natus saepe, similique sunt omnis asperiores rerum. Praesentium aut laudantium rem.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -6</h1>
+            <p>price : $600</p>
+            <p>Unde, aliquam omnis! Consectetur asperiores, qui eligendi enim officiis aut quis temporibus repudiandae laboriosam sed facere ullam corporis maxime vero?</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -7</h1>
+            <p>price : $700</p>
+            <p>Quibusdam consequuntur pariatur, ipsa optio commodi reprehenderit, doloribus iste expedita quas alias dicta aperiam voluptatem minus? Accusamus nesciunt excepturi tempora?</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -8</h1>
+            <p>price : $800</p>
+            <p>Incidunt corrupti rerum doloremque nobis accusamus error vero mollitia excepturi ea ipsam totam eaque reiciendis, illum pariatur. Perferendis, ipsam asperiores.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -9</h1>
+            <p>price : $900</p>
+            <p>Consequatur repudiandae, vel voluptas quaerat laborum odio dolore distinctio, cum sit omnis pariatur expedita voluptatum perferendis suscipit, accusamus possimus veritatis.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -10</h1>
+            <p>price : $1000</p>
+            <p>Laudantium nulla eaque quos pariatur quae cupiditate quasi quas. Enim mollitia quia nam. Adipisci laudantium harum impedit placeat atque rerum.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -11</h1>
+            <p>price : $1100</p>
+            <p>Alias at labore ea ipsam et corrupti distinctio nisi voluptas excepturi expedita iure, officia ducimus voluptates est quia architecto adipisci.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -12</h1>
+            <p>price : $1200</p>
+            <p>Debitis quidem possimus at libero reprehenderit rerum nesciunt tempora facilis laborum nam, dolorum accusantium sit temporibus, ex velit nulla necessitatibus?</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -13</h1>
+            <p>price : $1300</p>
+            <p>Officia ab, iure ex, exercitationem adipisci odio consequatur neque tempora placeat aliquid maiores autem quia est nam dolorem, quasi fugiat?</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="food">
+            <img src="food.jpg" alt="">
+            <h1>food Item -14</h1>
+            <p>price : $1400</p>
+            <p>Necessitatibus sint temporibus atque. Fuga recusandae ab iusto quibusdam facere atque amet quidem consequatur harum ad, minima enim officia? Non!</p>
+            <button>Buy Now</button>
+        </div>
+    </div>
+  </section>
+
+
+<!-- end media query for small and medium and large devise -->
+
+
+<!-- Start calender Section -->
+    <!-- <section>
+            <h1>My Personal Callender</h1>
+            <div class="calender-container">
+                <div class="date">1</div>
+                <div class="date">2</div>
+                <div class="date">3</div>
+                <div class="date">4</div>
+                <div class="date">5</div>
+                <div class="date">6</div>
+                <div class="date">7</div>
+                <div class="date">8</div>
+                <div class="date">9</div>
+                <div class="date">10</div>
+                <div class="date">11</div>
+                <div class="date">12</div>
+                <div class="date">13</div>
+                <div class="date">14</div>
+                <div class="date">15</div>
+                <div class="date">16</div>
+                <div class="date">17</div>
+                <div class="date">18</div>
+                <div class="date">19</div>
+                <div class="date">20</div>
+                <div class="date">21</div>
+                <div class="date">22</div>
+                <div class="date">23</div>
+                <div class="date">24</div>
+                <div class="date">25</div>
+                <div class="date">26</div>
+                <div class="date">27</div>
+                <div class="date">28</div>
+                <div class="date">29</div>
+                <div class="date">30</div>
+                <div class="date">31</div>
+                <div class="date">32</div>
+                <div class="date">33</div>
+                <div class="date">34</div>
+                <div class="date">35</div>
+            </div> 
+        </section>-->
+
+
+<!-- end calender Section -->
+
+
+
+         <!-- .container>.food*12>img[src="food.webp"]+h1{Food Item -$}+p{Price \$$00}+p>lorem20 -->
+
+<!-- start media query  section-->
+
+    <!--<section>
+           
+              <div class="container">
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -1</h1>
+                    <p>Price $100</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum ad maxime sint minima. Necessitatibus excepturi voluptatem provident nihil atque consequatur!</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -2</h1>
+                    <p>Price $200</p>
+                    <p>Sit vel ipsa excepturi ipsam, autem laudantium nesciunt laboriosam suscipit assumenda repellat distinctio nulla tempore atque fuga veniam cupiditate facere.</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -3</h1>
+                    <p>Price $300</p>
+                    <p>Exercitationem aperiam repudiandae ipsa reprehenderit unde itaque minus quidem neque animi laudantium ex illum veniam eos, blanditiis, quo accusamus libero.</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -4</h1>
+                    <p>Price $400</p>
+                    <p>Maxime dolor accusamus accusantium nesciunt eligendi? Harum accusantium dolore voluptate illo fuga ducimus quo, totam voluptates a excepturi quisquam libero.</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -5</h1>
+                    <p>Price $500</p>
+                    <p>Quia eius praesentium veniam tempore rerum rem placeat, quis explicabo adipisci odio doloremque eligendi ea, animi, laudantium aut et pariatur.</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -6</h1>
+                    <p>Price $600</p>
+                    <p>Fugiat rerum, velit saepe sapiente deleniti placeat facere unde explicabo enim illum voluptatibus commodi labore! Fugiat vel enim deserunt quia.</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -7</h1>
+                    <p>Price $700</p>
+                    <p>Saepe doloremque consectetur mollitia deleniti, eius quae, molestias sequi quaerat culpa quo optio quisquam voluptatum dignissimos incidunt dolores nisi voluptates?</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -8</h1>
+                    <p>Price $800</p>
+                    <p>Libero assumenda molestiae est fuga aut, a reiciendis iusto blanditiis amet quibusdam, harum cumque distinctio maiores velit itaque! Atque, ipsam!</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -9</h1>
+                    <p>Price $900</p>
+                    <p>Praesentium nihil voluptatibus vel quo molestias eum consequatur accusantium rerum fugiat odio assumenda, voluptas possimus qui dolores quis inventore fuga.</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -10</h1>
+                    <p>Price $1000</p>
+                    <p>Aspernatur explicabo exercitationem rem ducimus. Vel a alias quo nostrum incidunt quis praesentium dolor enim, provident ipsam, porro debitis voluptatibus!</p>
+                </div>
+                <div class="food">
+                    <img src="food.jpg" alt="">
+                    <h1>Food Item -11</h1>
+                    <p>Price $1100</p>
+                    <p>Inventore recusandae culpa soluta officia dolorum accusantium odio velit, aliquam adipisci consequuntur. Ea facere explicabo velit iste in ratione assumenda.</p>
+                </div>
+               
+              </div>
+        </section> -->
+
+<!-- end media query  section-->
+
+    </main>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Practice</title>
+    <style>
+
+        .calendar-section{
+            display: grid;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+           
+            height: 800px;
+        }
+        .calendar{
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 20px 10px;
+          
+           
+            
+           
+            
+        }
+        .date, .days{ 
+            width: 80px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: cornflowerblue;
+            font-size: 50px;
+            border-radius: 50%  ;
+         
+        }
+        .days{
+            background-color: gray;
+        }
+    </style>
+</head>
+<body>
+    <main>
+          <h1>My Personal Calendar</h1>
+        <section class="">
+           
+            <div class="calendar">
+                <div class="days">S</div>
+                <div class="days">M</div>
+                <div class="days">T</div>
+                <div class="days">W</div>
+                <div class="days">T</div>
+                <div class="days">F</div>
+                <div class="days">S</div>
+                <div class="date">29</div>
+                <div class="date">30</div>
+                <div class="date">31</div>
+                <div class="date">1</div>
+                <div class="date">2</div>
+                <div class="date">3</div>
+                <div class="date">4</div>
+                <div class="date">5</div>
+                <div class="date">6</div>
+                <div class="date">7</div>
+                <div class="date">8</div>
+                <div class="date">9</div>
+                <div class="date">10</div>
+                <div class="date">11</div>
+                <div class="date">12</div>
+                <div class="date">13</div>
+                <div class="date">14</div>
+                <div class="date">15</div>
+                <div class="date">16</div>
+                <div class="date">17</div>
+                <div class="date">18</div>
+                <div class="date">19</div>
+                <div class="date">20</div>
+                <div class="date">21</div>
+                <div class="date">22</div>
+                <div class="date">23</div>
+                <div class="date">24</div>
+                <div class="date">25</div>
+                <div class="date">26</div>
+                <div class="date">27</div>
+                <div class="date">28</div>
+                <div class="date">29</div>
+                <div class="date">30</div>
+                <div class="date">1</div>
+                <div class="date">2</div>
+                
+            </div>
+        </section>
+    </main>
+    
+</body>
+</html> -->

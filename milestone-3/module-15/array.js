@@ -11,3 +11,6 @@
 // for(const busName of busNames){
 //     console.log(busName);
 // }
+
+
+let numbers=[20,34,90,45,74,21,12]

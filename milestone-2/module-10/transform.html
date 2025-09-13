@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transform</title>
+    <style>
+        .container, .inner{
+            width: 200px;
+            height: 200px;
+        }
+        .container{
+            background-color: slateblue;
+            border: 2px solid salmon;
+        }
+        .inner{
+            background-color: turquoise;
+            border: 2px solid greenyellow;    
+            /*
+            transform: scale(2);
+            transform: rotate(15deg,);
+            */ 
+        }
+        .inner:hover{
+            transform: rotate(124deg) scale(.5);
+        }
+    </style>
+</head>
+<body>
+    <h1>This is Transform Property in css</h1>
+    <div class="container">
+        <div class="inner">Inner 1</div>
+    </div>
+    <div class="container">
+        <div class="inner">Inner 2</div>
+    </div>
+    <div class="container">
+        <div class="inner">Inner 3</div>
+    </div>
+</body>
+</html>

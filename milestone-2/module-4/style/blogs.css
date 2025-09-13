@@ -1,0 +1,22 @@
+
+
+.basic label{
+    display: block;
+
+
+}
+nav ul li a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 10px 10px;
+}
+img{
+    height: 600px;
+    width: 100%;
+}
+footer{
+    text-align: center;
+}

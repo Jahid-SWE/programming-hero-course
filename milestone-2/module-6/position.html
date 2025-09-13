@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position</title>
+    <style>
+        .box{
+           position: relative
+        }
+        img{
+            width: 500px;
+            height: 400px; 
+        }
+        .boy{
+            position: absolute;
+            top:-50px;
+            left: 150px;
+            z-index: 3;
+
+
+        }
+        .boy img{
+            width: 300px;
+            height: 400px;
+        }
+        .ring{
+            position: absolute;
+            top: 0;
+            z-index: 2;
+            transform: scaleY(2);
+        }
+    </style>
+</head>
+<body>
+    <div class="swim-container">
+        <div class="box boy"><img src="swim-boy.png" alt=""></div>
+        <div class="box ring"><img src="swim-ring.png" alt=""></div>
+        <div class="box water"><img src="swim-water.png" alt=""></div>
+    </div>
+</body>
+</html>

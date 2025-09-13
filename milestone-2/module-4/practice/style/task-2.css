@@ -1,0 +1,29 @@
+body{
+    background-color: cyan;
+}
+.form{
+    width: 500px;
+    background-color: cornflowerblue;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+h3{
+    padding: 20px;
+}
+
+.contestForm label,input,select,textarea{
+    display: block;
+    line-height: 25px;
+    margin-left: 20px;
+
+}
+select, option{
+    width: 178px;
+    height: 22px;
+}
+button{
+    margin: 20px 30px;
+    font-size: 1.2em;
+    border-radius: 7px;
+    background-color: cyan;
+}

@@ -1,2 +1,1 @@
-const name = 'jahid';
-// const friend = "polash";
+console.log(newWord);

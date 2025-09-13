@@ -7,53 +7,54 @@
     <style>
         nav{
             display: flex;
-            justify-content: space-around;
+            justify-content: space-around; 
+            margin-top: 50px;
         }
         nav a{
             text-decoration: none;
+            padding: 20px;
         }
 
-        .container{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border: 1px dashed red;
-            height: 400px;
+        .form-container{
+           border: 1px solid red;
+           display: flex;
+           justify-content: center;
+
         }
-        .form-login{
-            display:flex;
+        .form{
+            display: flex;
             flex-direction: column;
             width: 50%;
-            
         }
-        form input{
+        input{
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <nav>
-        <div>
+        <div class="nav-bar">
             <a href="">Home</a>
-        <a href="">Blog</a>
-        <a href="">Profile</a>
-        <a href="">About</a>
+            <a href="">Profile</a>
+            <a href="">About</a>
+            <a href="">Blog</a>
         </div>
-        <a href="">log In</a>
+        <div>
+            <a href="">Log In </a>
+        </div>
     </nav>
-    <main>
-        <section>
-           
-          <div class="container">
-              <form action="" class="form-login">
-                 <h1>Please Log In</h1>
-                <input type="email" name="" id="" placeholder="Your Name">
-                <input type="password" name="" id="" placeholder="Your password">
+    <section>
+        <div class="form-container">
+          
+            <form action="" class="form">
+                <h1>Please Log In First</h1>
+                <input type="email" name="" id="" placeholder="Your Email">
+                <input type="password" name="" id="" placeholder="Your Password">
                 <input type="submit" name="" id="" value="Log In">
             </form>
-          </div>
-        </section>
-    </main>
+        </div>
+    </section>
+
 </body>
 </html>
 
@@ -68,80 +69,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form </title>
-    <style>
-        nav{
-            display: flex;
-            justify-content: space-between;
-        }
-        nav a{
-            text-decoration: none;
-        }
-        .form-container{
-            border: 1px solid gray;
-            display: flex;
-            justify-content: center;
-            height: 500px;
-            align-items: center;
-        }
-        .login-form{
-            display: flex;
-            flex-direction: column;
-            width: 50%;
-        }
-        .login-form input{
-            margin-top: 20px;
-        }
-        .login-form input[type="submit"]{
-            background-color: pink;
-            color: white;
-            border-radius: 56px;
-        }
-    </style>
-</head>
-<body>
-    <nav>
-        <div>
-            <a href="">Home</a>
-            <a href="">Profile</a>
-            <a href="">Blog</a>
-            <a href="">About</a>
-        </div>
-         <a href="">Log In</a>
-    </nav>
-    <main>
-        <section  class="form-container">
-            <form action="" class="login-form">
-            <h1>Please Log In</h1>
-            <input type="email" name="email" id="" placeholder="Your Email" required>
-            <input type="password" name="password" id="" placeholder="Your password" required>
-            <input type="submit" value="Log In">
-        </form>
-        </section>
-        
-    </main>
-</body>
-</html> -->

@@ -1,1 +1,2 @@
-var multiplication=0;
+
+    if(sum===100){

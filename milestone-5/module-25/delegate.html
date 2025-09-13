@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <h1>Here Explore Event Delegate</h1>
+    <ol id="item-list">
+        <li class="item">My Awesome item-1</li>
+        <li class="item">My Awesome item-2</li>
+        <li class="item">My Awesome item-3</li>
+        <li class="item">My Awesome item-4</li>
+        <li class="item">My Awesome item-5</li>
+        <li class="item">My Awesome item-6</li>
+    </ol>
+    <button id="btn-new-item">Add a new Item</button>
+    <script>
+    //     const items=document.getElementsByClassName('item')
+    //    for(const item of items){
+    //     item.addEventListener('click', function(event){
+    //         // console.log(event.target)
+    //         event.target.parentNode.removeChild(event.target)
+    //     })}
+
+        document.getElementById('item-list')
+        .addEventListener('click',function(event){
+            event.target.parentNode.removeChild(event.target)
+        })
+
+        // add a new item
+        document.getElementById('btn-new-item')
+        .addEventListener('click', function(){
+            // console.log('button click')
+
+            // parent to be add to
+            const ol= document.getElementById('item-list');
+            const li = document.createElement('li');
+            li.innerText='Brand new item adde';
+            // add a item
+            ol.appendChild(li)
+        })
+    </script>
+</body>
+</html>
