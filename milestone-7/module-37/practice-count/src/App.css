@@ -40,16 +40,9 @@
 .read-the-docs {
   color: #888;
 }
-
-
-.student, .singer, .devise, .riksha{
-  color: green;
-  margin: 10px;
-  padding: 10px;
+.count{
   border: 2px solid salmon;
   border-radius: 20px;
-}
-.para{
-  font-size: 10px;
-  color: goldenrod;
+  margin: 20px ;
+  padding: 10px;
 }

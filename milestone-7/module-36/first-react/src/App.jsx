@@ -5,7 +5,6 @@ import Actor from './Actor'
 import Singer from './Singer'
 import Library from './Library'
 
-
 function App() {
 
   // const actors=['Sakib', 'Bappa Mojumder', 'Rajjak', 'Abul Khair', 'AHakim', 'micale']
@@ -27,15 +26,25 @@ function App() {
     <>
       <div>
       
+        
+        <h1>React Core Concept </h1>
+        <ToDo task='Learn js' isDone={true}></ToDo>
+        <ToDo task='Learn java' isDone={false}></ToDo>
+        <ToDo task='Learn C++' isDone={true}></ToDo>
+
+      {/* <Devise name="Laptop" brand="HP" price='5000'></Devise>
+      <Devise name="Macq" brand="Apple" price='100000'></Devise>
+      <Devise name="Dell" brand="HP" price='64855'></Devise>
       <Library books={books}></Library>
-      
-      <h1>React Core Concept </h1>
+      <Riksha name='Rohim' age='25' rent='50'></Riksha>
+      <Riksha name='kamla' age='30' rent='80'></Riksha> */}
+
       {/* {
         actors.map(actor=><Actor  actor={actor}></Actor>)
       } */}
-      {
+      {/* {
         singer.map(singer=><Singer key={singer.id} singer={singer}></Singer>)
-      }
+      } */}
 
       {/* <ToDo task="Learning React" isDone='true'></ToDo>
       <ToDo task="Revise js" isDone='false'></ToDo>
@@ -59,6 +68,27 @@ function App() {
     </>
   )
 }
+
+const Riksha=({name, age, rent})=>{
+  return(
+    <div className='riksha'>
+      <h4>Name : {name}</h4>
+      <h4>Age : {age}</h4>
+      <h4>Rent : {rent}</h4>
+    </div>
+  )
+}
+const Devise=(props)=>{
+  return(
+    <div className='devise'>
+      <h4>Devise name: {props.name} </h4>
+      <h4>brand :{props.brand}</h4>
+      <h4>price {props.price}</h4>
+    </div>
+  )
+}
+
+
 function Player({name, runs=1000}){
   return(
     <div className='student'>

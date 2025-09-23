@@ -41,15 +41,13 @@
   color: #888;
 }
 
-
-.student, .singer, .devise, .riksha{
-  color: green;
+.clickbtn{
   margin: 10px;
-  padding: 10px;
   border: 2px solid salmon;
-  border-radius: 20px;
 }
-.para{
-  font-size: 10px;
-  color: goldenrod;
+.card{
+  border: 3px solid salmon;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
 }
