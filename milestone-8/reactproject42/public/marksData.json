@@ -1,0 +1,92 @@
+[
+  {
+    "studentId": "S001",
+    "name": "Aminul Islam",
+    "marks": {
+      "math": 85,
+      "science": 78,
+      "english": 90
+    }
+  },
+  {
+    "studentId": "S002",
+    "name": "Nusrat Jahan",
+    "marks": {
+      "math": 72,
+      "science": 81,
+      "english": 76
+    }
+  },
+  {
+    "studentId": "S003",
+    "name": "Rafi Ahmed",
+    "marks": {
+      "math": 88,
+      "science": 92,
+      "english": 85
+    }
+  },
+  {
+    "studentId": "S004",
+    "name": "Mim Akter",
+    "marks": {
+      "math": 79,
+      "science": 74,
+      "english": 83
+    }
+  },
+  {
+    "studentId": "S005",
+    "name": "Sabbir Rahman",
+    "marks": {
+      "math": 91,
+      "science": 87,
+      "english": 89
+    }
+  },
+  {
+    "studentId": "S006",
+    "name": "Tanjila Haque",
+    "marks": {
+      "math": 68,
+      "science": 73,
+      "english": 70
+    }
+  },
+  {
+    "studentId": "S007",
+    "name": "Shahidul Islam",
+    "marks": {
+      "math": 95,
+      "science": 90,
+      "english": 94
+    }
+  },
+  {
+    "studentId": "S008",
+    "name": "Farhana Akter",
+    "marks": {
+      "math": 77,
+      "science": 80,
+      "english": 82
+    }
+  },
+  {
+    "studentId": "S009",
+    "name": "Asif Hossain",
+    "marks": {
+      "math": 83,
+      "science": 85,
+      "english": 88
+    }
+  },
+  {
+    "studentId": "S010",
+    "name": "Rima Khatun",
+    "marks": {
+      "math": 70,
+      "science": 65,
+      "english": 72
+    }
+  }
+]

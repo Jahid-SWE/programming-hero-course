@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$29/month",
+    "description": "Perfect for beginners starting their fitness journey",
+    "features": [
+      "Access to gym equipment (cardio & strength)",
+      "1 free fitness assessment",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "popular":true,
+    "price": "$49/month",
+    "description": "Great for regular gym-goers who want extra guidance",
+    "features": [
+      "Everything in Basic Plan",
+      "2 Personal training sessions per month",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "Sauna & steam access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$79/month",
+    "description": "Best for fitness enthusiasts aiming for faster results",
+    "features": [
+      "Everything in Standard Plan",
+      "Unlimited personal training sessions",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "Nutrition consultation",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "Free gym merchandise (t-shirt, bottle)"
+    ]
+  }
+]
