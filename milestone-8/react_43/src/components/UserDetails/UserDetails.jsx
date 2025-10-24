@@ -1,14 +1,16 @@
 import React from 'react'
-import { useLoaderData } from 'react-router'
+import { useLoaderData, useNavigate } from 'react-router'
 
 const UserDetails = () => {
     const user= useLoaderData()
-    const {website, name}=user
+    const navigate=useNavigate()
+    const {id,website, name}=user
   return (
-    <div>
-        <h4>User Details</h4>
+    <div style={{width:'500px', border:'1px solid pink'}}>
+        <h4>User Details {id}</h4>
         <p>name :{name}</p>
         <p>Website: {website}</p>
+        <button onClick={()=>navigate(-1)}>Previous</button>
     </div>
   )
 }

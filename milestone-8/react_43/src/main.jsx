@@ -77,12 +77,6 @@ const route=createBrowserRouter([
       loader:({params})=> fetch(`https://jsonplaceholder.typicode.com/comments/${params.fCommentId}`),
       Component: FComponentDetails,
      },
-
-
-
-
-
-
     ]
   },
   {
@@ -92,6 +86,10 @@ const route=createBrowserRouter([
   {
     path:'app',
     element:<div>This is App </div>
+  },
+  {
+      path:'*',
+      element:<h1>Page Not Found 404</h1>
   }
 ])
 

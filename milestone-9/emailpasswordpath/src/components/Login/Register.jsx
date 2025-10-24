@@ -1,19 +1,30 @@
 import { createUserWithEmailAndPassword } from 'firebase/auth'
-import React from 'react'
+import React, { useState } from 'react'
 import { auth } from '../../firebase/firebase.init'
 
 const Register = () => {
+    const [userEmail, setUserEmail]=useState('')
+    const [success, setSuccess]= useState(false)
+    const [error, setError]= useState()
     const handlerRegister = (event) => {
         event.preventDefault()
         const email= event.target.email.value
         const password= event.target.password. value
         console.log('register clicked', email, password)
+        setUserEmail('')
+        setError('');
+        setSuccess(false)
+
         createUserWithEmailAndPassword(auth, email, password)
         .then(result=>{
             console.log('afcter create of new user',result.user)
+            setUserEmail(email)
+            setSuccess(true)
+            event.target.reset()
         })
         .catch(error=>{
-            console.log(error)
+            console.log('Error Happend here',error.message)
+            setError(error.message)
         })
     }
     return (
@@ -31,8 +42,14 @@ const Register = () => {
                                 <label className="label">Password</label>
                                 <input type="password" name='password' className="input" placeholder="Password" />
                                 <div><a className="link link-hover">Forgot password?</a></div>
-                                <button className="btn btn-neutral mt-4">Register</button>
+                                <button className="btn btn-neutral mt-4" >Register</button>
                             </fieldset>
+                            {
+                                success && userEmail && <p className='text-emerald-500 text-center '>Your gmail login successfull {userEmail} </p>
+                            }
+                            {
+                                error && <p className='bg-red-600 mt-10'>{error}</p>
+                            }
                         </form>
                     </div>
                 </div>

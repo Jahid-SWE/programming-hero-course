@@ -1,0 +1,926 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1048/1048945.png",
+    "title": "SwiftChat Messenger",
+    "companyName": "NovaSoft",
+    "id": 1,
+    "description": "SwiftChat Messenger by NovaSoft is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 74,
+    "reviews": 1827,
+    "ratingAvg": 3.63,
+    "downloads": 132716,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 176
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 587
+      },
+      {
+        "name": "5 star",
+        "count": 402
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1048/1048945.png",
+    "title": "PhotoLab Studio",
+    "companyName": "BlueOrbit",
+    "id": 2,
+    "description": "PhotoLab Studio by BlueOrbit is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 241,
+    "reviews": 1421,
+    "ratingAvg": 3.37,
+    "downloads": 72471,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 176
+      },
+      {
+        "name": "2 star",
+        "count": 133
+      },
+      {
+        "name": "3 star",
+        "count": 381
+      },
+      {
+        "name": "4 star",
+        "count": 463
+      },
+      {
+        "name": "5 star",
+        "count": 268
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "FitLife Tracker",
+    "companyName": "PeakLabs",
+    "id": 3,
+    "description": "FitLife Tracker by PeakLabs is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 127,
+    "reviews": 1762,
+    "ratingAvg": 3.45,
+    "downloads": 126588,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 208
+      },
+      {
+        "name": "2 star",
+        "count": 216
+      },
+      {
+        "name": "3 star",
+        "count": 487
+      },
+      {
+        "name": "4 star",
+        "count": 548
+      },
+      {
+        "name": "5 star",
+        "count": 303
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "BudgetWise",
+    "companyName": "GreenWave",
+    "id": 4,
+    "description": "BudgetWise by GreenWave is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 39,
+    "reviews": 973,
+    "ratingAvg": 3.55,
+    "downloads": 61350,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 68
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 232
+      },
+      {
+        "name": "4 star",
+        "count": 321
+      },
+      {
+        "name": "5 star",
+        "count": 232
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "RecipeBox",
+    "companyName": "OrbitTech",
+    "id": 5,
+    "description": "RecipeBox by OrbitTech is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 98,
+    "reviews": 1119,
+    "ratingAvg": 3.57,
+    "downloads": 70234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 84
+      },
+      {
+        "name": "2 star",
+        "count": 132
+      },
+      {
+        "name": "3 star",
+        "count": 293
+      },
+      {
+        "name": "4 star",
+        "count": 350
+      },
+      {
+        "name": "5 star",
+        "count": 260
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "TravelPal",
+    "companyName": "Skyline Apps",
+    "id": 6,
+    "description": "TravelPal by Skyline Apps is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 53,
+    "reviews": 557,
+    "ratingAvg": 3.78,
+    "downloads": 50130,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 35
+      },
+      {
+        "name": "2 star",
+        "count": 53
+      },
+      {
+        "name": "3 star",
+        "count": 121
+      },
+      {
+        "name": "4 star",
+        "count": 191
+      },
+      {
+        "name": "5 star",
+        "count": 157
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "NoteForge",
+    "companyName": "PixelBloom",
+    "id": 7,
+    "description": "NoteForge by PixelBloom is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 22,
+    "reviews": 1408,
+    "ratingAvg": 3.33,
+    "downloads": 192320,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 212
+      },
+      {
+        "name": "3 star",
+        "count": 321
+      },
+      {
+        "name": "4 star",
+        "count": 402
+      },
+      {
+        "name": "5 star",
+        "count": 152
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "SoundScape",
+    "companyName": "CoreNine",
+    "id": 8,
+    "description": "SoundScape by CoreNine is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 183,
+    "reviews": 1988,
+    "ratingAvg": 3.58,
+    "downloads": 298200,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 216
+      },
+      {
+        "name": "2 star",
+        "count": 286
+      },
+      {
+        "name": "3 star",
+        "count": 468
+      },
+      {
+        "name": "4 star",
+        "count": 624
+      },
+      {
+        "name": "5 star",
+        "count": 394
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "TaskSprint",
+    "companyName": "LunaWorks",
+    "id": 9,
+    "description": "TaskSprint by LunaWorks is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 16,
+    "reviews": 1892,
+    "ratingAvg": 3.64,
+    "downloads": 187636,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 204
+      },
+      {
+        "name": "2 star",
+        "count": 238
+      },
+      {
+        "name": "3 star",
+        "count": 454
+      },
+      {
+        "name": "4 star",
+        "count": 578
+      },
+      {
+        "name": "5 star",
+        "count": 418
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "MindGarden",
+    "companyName": "BrightEdge",
+    "id": 10,
+    "description": "MindGarden by BrightEdge is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 47,
+    "reviews": 1017,
+    "ratingAvg": 3.63,
+    "downloads": 51173,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 83
+      },
+      {
+        "name": "2 star",
+        "count": 134
+      },
+      {
+        "name": "3 star",
+        "count": 233
+      },
+      {
+        "name": "4 star",
+        "count": 319
+      },
+      {
+        "name": "5 star",
+        "count": 248
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "LearnLoop",
+    "companyName": "MapleTree",
+    "id": 11,
+    "description": "LearnLoop by MapleTree is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 151,
+    "reviews": 347,
+    "ratingAvg": 3.32,
+    "downloads": 34700,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 49
+      },
+      {
+        "name": "2 star",
+        "count": 42
+      },
+      {
+        "name": "3 star",
+        "count": 79
+      },
+      {
+        "name": "4 star",
+        "count": 120
+      },
+      {
+        "name": "5 star",
+        "count": 57
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "MarketWatch",
+    "companyName": "NimbusCorp",
+    "id": 12,
+    "description": "MarketWatch by NimbusCorp is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 198,
+    "reviews": 120,
+    "ratingAvg": 3.69,
+    "downloads": 21000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6
+      },
+      {
+        "name": "2 star",
+        "count": 16
+      },
+      {
+        "name": "3 star",
+        "count": 28
+      },
+      {
+        "name": "4 star",
+        "count": 44
+      },
+      {
+        "name": "5 star",
+        "count": 26
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "DailyDiary",
+    "companyName": "EchoByte",
+    "id": 13,
+    "description": "DailyDiary by EchoByte is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 37,
+    "reviews": 824,
+    "ratingAvg": 3.5,
+    "downloads": 82008,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 68
+      },
+      {
+        "name": "2 star",
+        "count": 94
+      },
+      {
+        "name": "3 star",
+        "count": 203
+      },
+      {
+        "name": "4 star",
+        "count": 279
+      },
+      {
+        "name": "5 star",
+        "count": 180
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "Weatherly",
+    "companyName": "SilverStone",
+    "id": 14,
+    "description": "Weatherly by SilverStone is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 66,
+    "reviews": 1887,
+    "ratingAvg": 3.66,
+    "downloads": 226440,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 170
+      },
+      {
+        "name": "2 star",
+        "count": 218
+      },
+      {
+        "name": "3 star",
+        "count": 438
+      },
+      {
+        "name": "4 star",
+        "count": 598
+      },
+      {
+        "name": "5 star",
+        "count": 463
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "MeditateMe",
+    "companyName": "AstraDev",
+    "id": 15,
+    "description": "MeditateMe by AstraDev is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 57,
+    "reviews": 920,
+    "ratingAvg": 3.49,
+    "downloads": 46000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 84
+      },
+      {
+        "name": "2 star",
+        "count": 102
+      },
+      {
+        "name": "3 star",
+        "count": 206
+      },
+      {
+        "name": "4 star",
+        "count": 316
+      },
+      {
+        "name": "5 star",
+        "count": 212
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "LanguageLift",
+    "companyName": "HarborSoft",
+    "id": 16,
+    "description": "LanguageLift by HarborSoft is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 200,
+    "reviews": 297,
+    "ratingAvg": 3.45,
+    "downloads": 41580,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 22
+      },
+      {
+        "name": "2 star",
+        "count": 43
+      },
+      {
+        "name": "3 star",
+        "count": 52
+      },
+      {
+        "name": "4 star",
+        "count": 93
+      },
+      {
+        "name": "5 star",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "ShopEase",
+    "companyName": "QuantumLeap",
+    "id": 17,
+    "description": "ShopEase by QuantumLeap is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 34,
+    "reviews": 282,
+    "ratingAvg": 3.28,
+    "downloads": 28200,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 34
+      },
+      {
+        "name": "2 star",
+        "count": 46
+      },
+      {
+        "name": "3 star",
+        "count": 69
+      },
+      {
+        "name": "4 star",
+        "count": 79
+      },
+      {
+        "name": "5 star",
+        "count": 54
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "EventHive",
+    "companyName": "VistaWorks",
+    "id": 18,
+    "description": "EventHive by VistaWorks is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 85,
+    "reviews": 1842,
+    "ratingAvg": 3.81,
+    "downloads": 184200,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 129
+      },
+      {
+        "name": "2 star",
+        "count": 148
+      },
+      {
+        "name": "3 star",
+        "count": 309
+      },
+      {
+        "name": "4 star",
+        "count": 594
+      },
+      {
+        "name": "5 star",
+        "count": 662
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "GameSphere",
+    "companyName": "HarborApps",
+    "id": 19,
+    "description": "GameSphere by HarborApps is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 122,
+    "reviews": 1799,
+    "ratingAvg": 3.55,
+    "downloads": 161910,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 171
+      },
+      {
+        "name": "2 star",
+        "count": 199
+      },
+      {
+        "name": "3 star",
+        "count": 432
+      },
+      {
+        "name": "4 star",
+        "count": 620
+      },
+      {
+        "name": "5 star",
+        "count": 377
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "HealthLog",
+    "companyName": "Zenith Labs",
+    "id": 20,
+    "description": "HealthLog by Zenith Labs is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 146,
+    "reviews": 421,
+    "ratingAvg": 3.34,
+    "downloads": 42100,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 56
+      },
+      {
+        "name": "2 star",
+        "count": 61
+      },
+      {
+        "name": "3 star",
+        "count": 98
+      },
+      {
+        "name": "4 star",
+        "count": 120
+      },
+      {
+        "name": "5 star",
+        "count": 86
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "InvoicePro",
+    "companyName": "AxisSoft",
+    "id": 21,
+    "description": "InvoicePro by AxisSoft is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 29,
+    "reviews": 611,
+    "ratingAvg": 3.5,
+    "downloads": 48880,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 51
+      },
+      {
+        "name": "2 star",
+        "count": 74
+      },
+      {
+        "name": "3 star",
+        "count": 143
+      },
+      {
+        "name": "4 star",
+        "count": 190
+      },
+      {
+        "name": "5 star",
+        "count": 153
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "QRVault",
+    "companyName": "CedarApps",
+    "id": 22,
+    "description": "QRVault by CedarApps is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 18,
+    "reviews": 1123,
+    "ratingAvg": 3.56,
+    "downloads": 125810,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 131
+      },
+      {
+        "name": "2 star",
+        "count": 162
+      },
+      {
+        "name": "3 star",
+        "count": 276
+      },
+      {
+        "name": "4 star",
+        "count": 346
+      },
+      {
+        "name": "5 star",
+        "count": 208
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "ArtGallery",
+    "companyName": "PulseMedia",
+    "id": 23,
+    "description": "ArtGallery by PulseMedia is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 63,
+    "reviews": 2101,
+    "ratingAvg": 3.64,
+    "downloads": 231120,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 198
+      },
+      {
+        "name": "2 star",
+        "count": 246
+      },
+      {
+        "name": "3 star",
+        "count": 478
+      },
+      {
+        "name": "4 star",
+        "count": 614
+      },
+      {
+        "name": "5 star",
+        "count": 565
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "Podcastly",
+    "companyName": "AuroraTech",
+    "id": 24,
+    "description": "Podcastly by AuroraTech is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 89,
+    "reviews": 892,
+    "ratingAvg": 3.54,
+    "downloads": 80280,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 83
+      },
+      {
+        "name": "2 star",
+        "count": 111
+      },
+      {
+        "name": "3 star",
+        "count": 209
+      },
+      {
+        "name": "4 star",
+        "count": 324
+      },
+      {
+        "name": "5 star",
+        "count": 165
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "DriveSync",
+    "companyName": "StreamLine",
+    "id": 25,
+    "description": "DriveSync by StreamLine is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 203,
+    "reviews": 3784,
+    "ratingAvg": 3.35,
+    "downloads": 375200,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 434
+      },
+      {
+        "name": "2 star",
+        "count": 592
+      },
+      {
+        "name": "3 star",
+        "count": 784
+      },
+      {
+        "name": "4 star",
+        "count": 996
+      },
+      {
+        "name": "5 star",
+        "count": 978
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "CodePad",
+    "companyName": "ForgeLabs",
+    "id": 26,
+    "description": "CodePad by ForgeLabs is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 63,
+    "reviews": 1647,
+    "ratingAvg": 3.52,
+    "downloads": 214986,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 157
+      },
+      {
+        "name": "2 star",
+        "count": 201
+      },
+      {
+        "name": "3 star",
+        "count": 372
+      },
+      {
+        "name": "4 star",
+        "count": 546
+      },
+      {
+        "name": "5 star",
+        "count": 371
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "SafeHome",
+    "companyName": "GuardianTech",
+    "id": 27,
+    "description": "SafeHome by GuardianTech is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 12,
+    "reviews": 2101,
+    "ratingAvg": 3.35,
+    "downloads": 315150,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 363
+      },
+      {
+        "name": "2 star",
+        "count": 402
+      },
+      {
+        "name": "3 star",
+        "count": 556
+      },
+      {
+        "name": "4 star",
+        "count": 504
+      },
+      {
+        "name": "5 star",
+        "count": 276
+      }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    "title": "KidsLearn",
+    "companyName": "LittleBeans",
+    "id": 28,
+    "description": "KidsLearn by LittleBeans is a polished, user-focused application designed to simplify daily tasks and elevate productivity. With an intuitive interface, powerful features, and seamless syncing across devices, it adapts to both casual users and power users. The app includes customizable settings, secure data handling, offline support, and regular updates informed by user feedback. Whether you're organizing life, capturing moments, or tracking progress, this app combines performance and elegance to deliver a reliable, enjoyable experience. Privacy-conscious design ensures your data stays under your control, while in-app tutorials and responsive support help you get the most out of every feature. Frequent enhancements and community-driven improvements keep the application modern and efficient for a broad audience.",
+    "size": 96,
+    "reviews": 672,
+    "ratingAvg": 3.2,
+    "downloads": 67200,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 78
+      },
+      {
+        "name": "2 star",
+        "count": 112
+      },
+      {
+        "name": "3 star",
+        "count": 162
+      },
+      {
+        "name": "4 star",
+        "count": 204
+      },
+      {
+        "name": "5 star",
+        "count": 116
+      }
+    ]
+  }
+]

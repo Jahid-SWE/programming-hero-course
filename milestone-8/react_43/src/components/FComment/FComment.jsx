@@ -14,4 +14,4 @@ const FComment = ({comment}) => {
   )
 }
 
-export default FComment
+export default FComment 
