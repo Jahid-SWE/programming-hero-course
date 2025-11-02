@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Nova Pro",
+    "price": "$799.00",
+    "description": "A stunning mobile device featuring a triple-lens camera and an edge-to-edge curved OLED display for immersive viewing.",
+    "image": "https://picsum.photos/id/237/300/300" 
+  },
+  {
+    "id": 2,
+    "name": "Pixel Wave",
+    "price": "$549.99",
+    "description": "Mid-range phone with a pure operating system experience and industry-leading computational photography for clear photos.",
+    "image": "https://picsum.photos/id/1084/300/300"
+  },
+  {
+    "id": 3,
+    "name": "Galaxy Fold",
+    "price": "$1,499.50",
+    "description": "Revolutionary foldable design that transitions seamlessly from a standard phone to a small tablet for multitasking.",
+    "image": "https://picsum.photos/id/25/300/300"
+  },
+  {
+    "id": 4,
+    "name": "Redmi Ultra",
+    "price": "$349.95",
+    "description": "High-performance budget phone boasting a massive battery life and extremely fast charging capability.",
+    "image": "https://picsum.photos/id/357/300/300"
+  },
+  {
+    "id": 5,
+    "name": "OnePlus X",
+    "price": "$485.75",
+    "description": "A streamlined phone known for its quick performance, clean interface, and smooth 120Hz refresh rate display.",
+    "image": "https://picsum.photos/id/275/300/300"
+  },
+  {
+    "id": 6,
+    "name": "Moto Fusion",
+    "price": "$290.20",
+    "description": "Durable and reliable entry-level phone with a clean Android interface and all-day battery performance.",
+    "image": "https://picsum.photos/id/60/300/300"
+  },
+  {
+    "id": 7,
+    "name": "iPhone Classic",
+    "price": "$699.99",
+    "description": "The latest edition of the iconic design, featuring robust security features and a powerful new chipset.",
+    "image": "https://picsum.photos/id/321/300/300"
+  },
+  {
+    "id": 8,
+    "name": "Razer Edge",
+    "price": "$999.00",
+    "description": "A dedicated gaming phone with specialized cooling technology and programmable shoulder buttons for competitive play.",
+    "image": "https://picsum.photos/id/40/300/300"
+  },
+  {
+    "id": 9,
+    "name": "Oppo Find",
+    "price": "$870.50",
+    "description": "Premium flagship phone that emphasizes photography with an advanced microscopic camera lens for unique shots.",
+    "image": "https://picsum.photos/id/66/300/300"
+  },
+  {
+    "id": 10,
+    "name": "Xperia View",
+    "price": "$725.90",
+    "description": "Designed for cinema enthusiasts, featuring a 21:9 aspect ratio 4K display and professional-grade camera controls.",
+    "image": "https://picsum.photos/id/1060/300/300"
+  }
+]

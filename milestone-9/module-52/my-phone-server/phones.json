@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Nova Phone X",
+    "product": "Smartphone",
+    "description": "The latest flagship smartphone with an edge-to-edge display and advanced camera features.",
+    "image": "images/nova-phone-x.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aura Noise-Cancelling Headphones",
+    "product": "Audio Equipment",
+    "description": "Premium wireless headphones offering industry-leading noise cancellation and crystal-clear sound.",
+    "image": "images/aura-headphones.png"
+  },
+  {
+    "id": 3,
+    "name": "Chrono Smartwatch 5",
+    "product": "Wearable Technology",
+    "description": "A stylish smartwatch with fitness tracking, heart rate monitoring, and long battery life.",
+    "image": "images/chrono-watch-5.webp"
+  },
+  {
+    "id": 4,
+    "name": "EcoBlend Personal Blender",
+    "product": "Kitchen Appliance",
+    "description": "Compact and powerful blender perfect for single-serving smoothies and shakes.",
+    "image": "images/ecoblend-blender.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Zenith Gaming Laptop 3000",
+    "product": "Computer",
+    "description": "High-performance gaming laptop with dedicated graphics and a fast refresh rate display.",
+    "image": "images/zenith-laptop.png"
+  },
+  {
+    "id": 6,
+    "name": "Terra Organic Coffee Beans",
+    "product": "Food & Beverage",
+    "description": "Single-origin, medium-roast organic coffee beans with notes of chocolate and caramel.",
+    "image": "images/terra-coffee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lumina LED Desk Lamp",
+    "product": "Home Goods",
+    "description": "Adjustable brightness and color temperature LED lamp with a modern, minimalist design.",
+    "image": "images/lumina-lamp.webp"
+  },
+  {
+    "id": 8,
+    "name": "Hydro Flask 40oz",
+    "product": "Outdoor Gear",
+    "description": "Insulated stainless steel water bottle that keeps drinks cold for up to 24 hours.",
+    "image": "images/hydro-flask.png"
+  },
+  {
+    "id": 9,
+    "name": "CodeMaster Keyboard",
+    "product": "Computer Peripherals",
+    "description": "Mechanical keyboard designed for programmers, featuring tactile switches and customizable backlighting.",
+    "image": "images/codemaster-keyboard.jpg"
+  },
+  {
+    "id": 10,
+    "name": "SilkTouch Sheet Set (Queen)",
+    "product": "Bedding",
+    "description": "Luxuriously soft and breathable Egyptian cotton sheet set for a comfortable night's sleep.",
+    "image": "images/silktouch-sheets.jpg"
+  }
+]
